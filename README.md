@@ -17,9 +17,6 @@
 Установите зависимости:
 	pip install -r requirements.txt
 
-Установите зависимости:
-	pip install -r requirements.txt
-
 
 Лицензия:
 
