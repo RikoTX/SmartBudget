@@ -21,21 +21,6 @@
 	pip install -r requirements.txt
 
 
-
-
-Структура проекта:
-SmartBudget/
-│
-├── src/
-│   ├── DatabaseModule/
-│   ├── GoalModule/
-│   ├── UserInterfaceModule/
-│   └── main.py
-│
-├── requirements.txt
-└── README.md
-
-
 Лицензия:
 
 ### Объяснение:
